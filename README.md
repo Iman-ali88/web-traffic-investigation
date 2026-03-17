@@ -45,6 +45,9 @@ The investigation confirmed a successful SQL Injection attack that resulted in d
 - Restrict access to sensitive directories  
 - Monitor logs and detect suspicious activity  
 
+
+Source: https://cyberdefenders.org/blueteam-ctf-challenges/web-investigation/
+
 ---
 
  This project demonstrates practical SOC analysis skills including network traffic analysis, incident response, and threat detection.
