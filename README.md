@@ -46,7 +46,7 @@ The investigation confirmed a successful SQL Injection attack that resulted in d
 - Monitor logs and detect suspicious activity  
 
 
-Source: https://cyberdefenders.org/blueteam-ctf-challenges/web-investigation/
+Source pcap file: https://cyberdefenders.org/blueteam-ctf-challenges/web-investigation/
 
 ---
 
